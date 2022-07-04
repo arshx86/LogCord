@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logcord", "src\logcord.csproj", "{43D6729C-C59E-4E52-969E-8AA307EAF2E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D6729C-C59E-4E52-969E-8AA307EAF2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D6729C-C59E-4E52-969E-8AA307EAF2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D6729C-C59E-4E52-969E-8AA307EAF2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D6729C-C59E-4E52-969E-8AA307EAF2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D15DA16-2E99-42C2-89BF-195E49DCEB2A}
+	EndGlobalSection
+EndGlobal
