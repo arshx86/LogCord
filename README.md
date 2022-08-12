@@ -34,9 +34,9 @@ I decided to make my own tool. Now open sourcing to those, who thinking "am i go
 
 <details>
 <summary>Screenshots</summary>
-<img src = "https://media.discordapp.net/attachments/921528250939883550/993594161972383844/unknown.png?width=836&height=468"
-<br></br>
-<img src = "https://media.discordapp.net/attachments/921528250939883550/993598987456221295/unknown.png?width=808&height=468"
+<img src = "https://media.discordapp.net/attachments/921528250939883550/993594161972383844/unknown.png?width=836&height=468">
+<br>
+<img src = "https://media.discordapp.net/attachments/921528250939883550/993598987456221295/unknown.png?width=808&height=468">
 </details>
 
 ## Notes
