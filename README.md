@@ -1,6 +1,9 @@
 ### logcord
 See devices logged into your discord account.
 
+# Archived
+This repo is archived. That was a my project based on discord websockets and sessions, events. Discord now bringed **devices** features officialy, so this repo is unnecessary at this time. Will be in here for **researchs**!
+
 ## Why
 This tool will give a very simple answer to people who think they have been **hacked**.
 
